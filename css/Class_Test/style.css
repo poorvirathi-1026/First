@@ -1,0 +1,19 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+body{
+    text-align: center;
+    background-color: rgb(161, 144, 134);
+}
+#block{border: 2px solid black;
+    border-radius: 5%;
+    background-color: white;
+    width: 30%;
+    height: auto;
+    justify-self: center;
+    justify-items: center;
+}
+#price{
+    color: rgb(255, 174, 0);
+}
